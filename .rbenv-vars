@@ -1,0 +1,1 @@
+JRUBY_OPTS=-J-Djava.library.path=lib -J-XstartOnFirstThread
